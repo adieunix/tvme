@@ -174,7 +174,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://datatabu.com/assets/img/tvme/cnbc.png" group-title="NASIONAL", CNBC INDONESIA 🇮🇩
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://datatabu.com/assets/img/tvme/cnbc.png" group-title="NASIONAL", CNN INDONESIA 🇮🇩
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://datatabu.com/assets/img/tvme/cnn.png" group-title="NASIONAL", CNN INDONESIA 🇮🇩
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 ========15/12/2024
@@ -3531,4 +3531,4 @@ https://webhdrunns.mizhls.ru/lb/premium400/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="Digi Sport 2 Romania" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="UEFA NATIONS LEAGUE",Digi Sport 2 Romania
 https://webhdrunns.mizhls.ru/lb/premium401/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTM3U billed-msg="😎20 JANUARI 2025 | lynk.id/magelife😎"
+#EXTM3U billed-msg="Datatabu TV"
