@@ -1441,3 +1441,5 @@ https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vIE9nWJ.jpeg" tvg-name="SuperSport MaXimo 1" group-title="LEAGUE CUP",SS MaXimo 1
 https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTM3U billed-msg="😎DATATABU TV 😎"
