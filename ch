@@ -19,7 +19,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://datatabu.com/assets/img/tvme/indosiar.png", INDOSIAR 5
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://datatabu.com/assets/img/tvme/indosiar.png", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="iNews.id" tvg-logo="https://datatabu.com/assets/img/tvme/inews.png",iNews
@@ -36,7 +36,7 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="TransTV.id" tvg-logo="https://datatabu.com/assets/img/tvme/transtv.png",Trans TV 2 ON
+#EXTINF:-1 group-title="NASIONAL" tvg-id="TransTV.id" tvg-logo="https://datatabu.com/assets/img/tvme/transtv.png",Trans TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
