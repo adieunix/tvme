@@ -82,7 +82,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://i.imgur.com/6y8Bum2.jpeg" group-title="NASIONAL",Moji EVENT ON
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://i.imgur.com/vbdGXB0.png" group-title="NASIONAL",Moji EVENT ON
 http://xtv.ooo:8080/30912088/60996054/350997
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.imgur.com/KMJsCJ3.png" group-title="NASIONAL", NET.
