@@ -1725,82 +1725,6 @@ LIGA INGGRIS
 
 
 =========15/2/2025
-#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS", Sky SPORT CALCIO (LCR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium871/mono.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS", Sky SPORTS PL (LCR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium130/mono.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS", Sky SPORTS MAIN EVENT  (LCR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
-========13/2/2025
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 tvg-id="xx" tvg-name="" group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg",Peacock tv
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-
-#EXTINF: -1 tvg-id="True Premiere Football 1" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",True Premiere Football 1
-#https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-http://ott.premium-tv.org:8789/wonton57/874893/235216
-
-
-
-#EXTINF: -1 tvg-id="True Premiere Football 2" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",True Premiere Football 2
-#https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-http://ott.premium-tv.org:8789/wonton57/874893/235215
-
-#EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://iili.io/JpwYNG2.png" group-title="LIGA INGGRIS", Sky SPORTS FOOTBALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium460/mono.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://iili.io/Jpwc5fp.jpg" group-title="LIGA INGGRIS", Sky SPORTS MAIN EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS", Sky SPORTS MIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium449/mono.m3u8
-
-#EXTINF:-1 tvg-id="SkySports EPL NZ" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS", SkySPORTS EPL NZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",Astro.PL.1
-http://iptv12k.com:35461/654321/123456/7990
-
-
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",Astro.P.L.2
-http://iptv12k.com:35461/654321/123456/7988
-
-
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",Astro Grandstand
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656972
-
-
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/jWTfGcL.jpegg" group-title="LIGA INGGRIS",Astro Football
-http://iptv12k.com:35461/654321/123456/969
-
-
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",Astro Sport Plus
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroSportPlus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7af7c0ac3c77478be9712bfc0f0d28b4":"845b9d91cefb70530380e8749d8dc201"}
@@ -1830,13 +1754,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 group-title="LIGA INGGRIS " tvg-logo="https://i.imgur.com/jWTfGcL.jpeg",Peacock 2
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=" https://i.imgur.com/jWTfGcL.jpeg " group-title="LIGA INGGRIS", SETANTA SPORT 1 馃嚤馃嚬
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
-https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
 =======BEIN ARAB=====
 
