@@ -1724,13 +1724,115 @@ LIGA INGGRIS
 #EXTINF:-1 group-logo="https://i.imgur.com/jWTfGcL.jpeg",LIGA INGGRIS
 
 
-=========15/2/2025
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 1 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddy6new.iosplayer.ru/ddy6/premium455/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7af7c0ac3c77478be9712bfc0f0d28b4":"845b9d91cefb70530380e8749d8dc201"}
-#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://i.imgur.com/jWTfGcL.jpeg" group-title="LIGA INGGRIS",EPL EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 2 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium456/mono.m3u8
+
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 3 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
+
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/47pEsGf.png",ELEVEN 4 PT
+ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
+
+
+========17/2/2025
+
+#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS" , DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS" , DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS" , DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS" , DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
+
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS", ARENA SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddy6new.iosplayer.ru/ddy6/premium432/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS", ARENA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.iosplayer.ru/zeko/premium433/mono.m3u8
+
+#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS", ARENA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddy6new.iosplayer.ru/ddy6/premium434/mono.m3u8
+
+#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS", ARENA SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS", ARENA SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS", ARENA SPORT PREMIUM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS", ARENA SPORT PREMIUM 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddy6new.iosplayer.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS" , DIEMA SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium465/mono.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS" , DIEMA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS" , DIEMA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium467/mono.m3u8
+
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA4" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS", CYTAVISION 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium914/mono.m3u8
+
+#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA3" tvg-logo="https://i.imgur.com/47pEsGf.png" group-title="LIGA INGGRIS", CYTAVISION 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium913/mono.m3u8
 
 
 ===========
