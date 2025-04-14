@@ -3684,4 +3684,11 @@ http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
 #EXTINF:-1 tvg-id="ARENA BOLA 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/rxlrjkA.jpeg" group-title="BOLA | AFC U17",AstArena Bola 2
 http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
 
+#EXTINF:-1 group-title="BOLA | AFC U17" tvg-logo="https://i.imgur.com/rxlrjkA.jpeg",MNC SPORTSTARS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 #EXTM3U billed-msg="Datatabu TV"
