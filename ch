@@ -3894,9 +3894,22 @@ https://dl.dropboxusercontent.com/scl/fi/xh0yd1zmo7hlhphjtnjnx/arena-sport-2.m3u
 #EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", ARENA SPORT 3
 https://dl.dropboxusercontent.com/scl/fi/c9wtcewmia97tksgy1zu3/arena-sport-3.m3u8?rlkey=ikgznd79bn8tba7mnr95gt3nn
 
-=======BOLA | AFC U17
+=======BOLA | MANDIRI CUP 2025
 
-#EXTINF:-1 group-logo="https://i.imgur.com/rxlrjkA.jpeg",BOLA | AFC U17
+#EXTINF:-1 group-logo="https://i.imgur.com/MaGAlTq.png",BOLA | MANDIRI CUP 2025
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025",SCTV FHD
+https://smart.pendy.dpdns.org/Smart.php?id=SCTV
+
+#EXTINF:-1 group-title="BOLA | MANDIRI CUP 2025" tvg-logo="https://i.imgur.com/MaGAlTq.png", INDOSIAR FHD
+https://hakim45.serv00.net/smarttv.php?id=Indosiar
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025",MojiTV TES
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
 ---------NEW 3/6/2025
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/rxlrjkA.jpeg" group-title="BOLA | AFC U17",Soccer Channel 1 ON (MJ)
