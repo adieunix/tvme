@@ -148,87 +148,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 
-=======BOLA | MANDIRI CUP 2025
-
-#EXTINF:-1 group-logo="https://i.imgur.com/MaGAlTq.png",BOLA | MANDIRI CUP 2025
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025",LIVE MALAYSIA 1
-https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025",LIVE MALAYSIA 2
-https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
-
-#EXTINF:-1 group-title="BOLA | MANDIRI CUP 2025" tvg-logo="https://i.imgur.com/MaGAlTq.png", INDOSIAR FHD
-https://hakim45.serv00.net/smarttv.php?id=Indosiar
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025" tvg-id="001" tvg-name="016-LABURATV", ASTRO ARENA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163654.ts
-
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025",Arena Bola
-https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025" tvg-id="001" tvg-name="016-LABURATV", ASTRO ARENA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2604/default_ott.mpd
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025" tvg-id="001" tvg-name="",  ASTRO ARENA 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BOLA | MANDIRI CUP 2025" tvg-id="" tvg-logo="https://i.imgur.com/MaGAlTq.pngg", World Cup 26™ Qualifiers INDONESIA VS JEPANG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 group-title="BOLA | MANDIRI CUP 2025" tvg-id="UEFA" tvg-logo="https://i.imgur.com/MaGAlTq.png", SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
-
-#EXTINF:-1 group-title="BOLA | MANDIRI CUP 2025" tvg-id="UEFA" tvg-logo="https://i.imgur.com/MaGAlTq.png", BEIN SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
-
-#EXTINF:-1 group-title="BOLA | MANDIRI CUP 2025" tvg-id="" tvg-logo="https://i.imgur.com/MaGAlTq.png",LIVE SINGAPURA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
-
-#EXTINF:-1 group-title="BOLA | MANDIRI CUP 2025" tvg-id="" tvg-logo="https://i.imgur.com/MaGAlTq.png",LIVE SINGAPURA 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-
-#EXTINF:-1 group-title="BOLA | MANDIRI CUP 2025" tvg-id="UEFA" tvg-logo="https://i.imgur.com/MaGAlTq.png",LIVE THAILAND BAYON TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/chunklist_w1108548147.m3u8
-
-
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025", TES 1 INDONESIA VS THAILAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=aff&type=m3u8
-
-
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025",TES 2 INDONESIA VS THAILAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=aff1&type=m3u8
-
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://i.imgur.com/MaGAlTq.png" group-title="BOLA | MANDIRI CUP 2025", TES 3 INDONESIA VS THAILAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-https://live-xlvb.nsnd.live/lJ2Wv8FqnVk88AXe9TtIbw/adb8de5045254f4388ff92b08aeba831/1753121840/live/_definst_/stream_1_1bda7@nuiFHD/chunklist.m3u8
-
 ==========
 NASIONAL
 ===========
@@ -4024,32 +3943,29 @@ https://dl.dropboxusercontent.com/scl/fi/xh0yd1zmo7hlhphjtnjnx/arena-sport-2.m3u
 #EXTINF:-1 group-title="BOLA | UEFA CHAMPIONS LEAGUE" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg", ARENA SPORT 3
 https://dl.dropboxusercontent.com/scl/fi/c9wtcewmia97tksgy1zu3/arena-sport-3.m3u8?rlkey=ikgznd79bn8tba7mnr95gt3nn
 
-=======BOLA | AFC U17
+==========
+BOLA | AFC ASIAN CUP 2025
+===========
 
-#EXTINF:-1 group-logo="https://i.imgur.com/rxlrjkA.jpeg",BOLA | AFC U17
+#EXTINF:-1 group-logo="https://i.imgur.com/rxlrjkA.jpeg",BOLA | AFC ASIAN CUP 2025
 
----------NEW 3/6/2025
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/rxlrjkA.jpeg" group-title="BOLA | AFC U17",Soccer Channel 1 ON (MJ)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="BOLA | AFC ASIAN CUP 2025", LIVE 1
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/rxlrjkA.jpeg" group-title="BOLA | AFC U17",Sportstars 2 HD (MJ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
----------NEW 3/6/2025
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BOLA | AFC U17" tvg-id="" tvg-logo="https://i.imgur.com/rxlrjkA.jpeg", Fancode (1) (R)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec426ed0179bd597da53009b5134b464:4d141c015d8437c4c87e29cfa9e26744
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/nf4cd3x1tq/out/v1/217476e3b50e4451975170fa67ff5eac/cenc.mpd
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="BOLA | AFC ASIAN CUP 2025", LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=aff1&type=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BOLA | AFC U17" tvg-id="" tvg-logo="https://i.imgur.com/rxlrjkA.jpeg", Fancode (2) (R)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="BOLA | AFC ASIAN CUP 2025", LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=u17&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="BOLA | AFC ASIAN CUP 2025", Indosiar Superleague
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
 #EXTM3U billed-msg="Datatabu TV"
