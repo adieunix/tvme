@@ -187,7 +187,7 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/qbC8Y4I.png" group-title="NASIONAL",TransTV HD 4 (AG)
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/qbC8Y4I.png" group-title="NASIONAL",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fz6g8vb.png",Trans 7
