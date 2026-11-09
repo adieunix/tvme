@@ -1,3 +1,4 @@
+
 =======================================================================================
 (🚀24926)(🚀24926)(🚀24926) | NASIONAL VERSI HARI INI |  (🚀24926)(🚀24926)(🚀24926)  ➡️🎬⬅️
 =======================================================================================
@@ -79,7 +80,6 @@ SEMENTARA TAB-SEMENTARA TAB
 
 
 -
-
 
 ==========
 DAERAH
@@ -394,6 +394,15 @@ https://rplus.inisemar.my.id/gtv.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rplus.inisemar.my.id/inews.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2p1NUt.jpeg" tvg-id="itzplay.id" group-title="NASIONAL;BERITA",iNews 
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inewstv
 
 ===========TRANS DTK
 =================== TRANS DTK (INI LANCAR)
@@ -913,19 +922,7 @@ FUN PLANET COVER : https://i.imgur.com/6cGSc3e.jpeg"
 MY KIDS COVER https://i.imgur.com/vdL9Wa6.jpeg
 DREAMWORKS INDO https://i.imgur.com/rzdTiDx.jpeg
 
-#EXTINF:-1 tvg-id="67" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Dreamworks INDO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=67&type=drm&token=apistech
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", Dreamworks INDO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=67
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
 
 
@@ -2477,38 +2474,40 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="indosiar.id" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1" , Indosiar
+https://delivery.skuyytv.xyz/stream/id_indosiar/playlist.m3u8?token=jyfds&v=20200807
 
-#EXTINF:-1 tvg-id="rbtv-4474625" tvg-name="🔴 LIVE [Liga 1 Indonesia] Persib Bandung vs Isenmulang Kalteng [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] Persib Bandung vs Isenmulang Kalteng [Server 1]
+
+
+#EXTINF:-1 tvg-id="rbtv-4474607" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persita Tangerang vs Isenmulang Kalteng [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/da85ffb03146e72ce9928729dcabda51.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persita Tangerang vs Isenmulang Kalteng [Server 1]
 #EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/X0AXP89NxQ712dEkYJDlpQXw5BXvscU7u4FdqAoaoHAgFNY87Q.m3u8?s=0&proxy_seg=1
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/L_Ir9eIe8ugU97A-GDgDV6l7bDfnUwiQ8c7LiwyFGCUP3BY0Cw.m3u8?s=0&proxy_seg=1
 
-#EXTINF:-1 tvg-id="rbtv-4474691" tvg-name="🔴 LIVE [Liga 1 Indonesia] PSIM Yogyakarta vs Borneo FC [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/1a64731cd883e9d734e29a83301ea849.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 1 Indonesia] PSIM Yogyakarta vs Borneo FC [Server 1]
+#EXTINF:-1 tvg-id="rbtv-4474662" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/f4bd932b7d276a93696f4491f334c932.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC [Server 1]
 #EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/4_hHKYeRtDGO0w4nX5nYtQqgQ2Lb2oiZ9Wu4SWmWrNwOkZjr3Q.m3u8?s=0&proxy_seg=1
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/NSI6mBTmwVJ5XmcojCqbHFR4hwEDhKkOipwz9wc2nX8tk-X9Tg.m3u8?s=0&proxy_seg=1
 
-#EXTINF:-1 tvg-id="rbtv-4501071" tvg-name="🔴 LIVE [Liga 2] PSIS Semarang vs Persikad Depok [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/1d9e28ffbeff11319f93a6c396d00537.png!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Liga 2] PSIS Semarang vs Persikad Depok [Server 1]
+#EXTINF:-1 tvg-id="rbtv-4474697" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persija Jakarta vs Persebaya Surabaya [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/10db29eabad13994d9729d8983f8d21a.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persija Jakarta vs Persebaya Surabaya [Server 1]
 #EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/pDbLW-Lui-Rexh-Za2n6VB26203yR1PAmKHO1GHVwHegmMscRg.m3u8?s=0&proxy_seg=1
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/MgCtdVK050MBPfQDxzU-I2am6GNHmf4BGQOnAXMW8LnX4WxUIQ.m3u8?s=0&proxy_seg=1
 
-#EXTINF:-1 tvg-id="rbtv-4525999" tvg-name="🔴 LIVE [Indonesian Women's Liga 1] Dewa United FC (W) vs Persija Jakarta (w) [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/8ee8a29b0550647780c18c97e994e972.jpg!w80" group-title="BOLA | BRI LIGA 1",🔴 LIVE [Indonesian Women's Liga 1] Dewa United FC (W) vs Persija Jakarta (w) [Server 1]
+#EXTINF:-1 tvg-id="rbtv-4474607" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persita Tangerang vs Isenmulang Kalteng [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/da85ffb03146e72ce9928729dcabda51.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persita Tangerang vs Isenmulang Kalteng [Server 1]
 #EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/IxfvKqU3KDlnSJHM5YBHqSpjZmgKtk-TuAS5cIlK-siDPnpZYw.m3u8?s=0&proxy_seg=1
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/mSZqFSZ1Mr6Nxgt9RVP1pHKnmCdeYE4-VuNfJDbzwQ-GkgUJjA.m3u8?s=0&proxy_seg=1
 
-#EXTINF:-1 tvg-id="event3-1570899" tvg-name="LIVE [IDN Super League] Persib Bandung vs Isenmulang Kalteng" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/sports/sports.png" group-title="BOLA | BRI LIGA 1",LIVE [IDN Super League] Persib Bandung vs Isenmulang Kalteng
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://pulltx.cqsycw.com/live/202_5687877_1.m3u8?txSecret=3113681b8756c7c9a2727876e4a72d69&txTime=6AEC4338|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="rbtv-4474662" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/f4bd932b7d276a93696f4491f334c932.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC [Server 1]
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/fKGYUaX8Tm2LFSLhcJejlK8-Ff7tDMzNg3vsMeRKnR2DAs3vvA.m3u8?s=0&proxy_seg=1
 
-#EXTINF:-1 tvg-id="event3-2179762" tvg-name="LIVE [Indonesia Super League] Persib Bandung vs Adhyaksa FC" tvg-logo="https://s.q5qo.com/data/2fc6c943bc2814af5b065e9c4f38c0d2.png" group-title="BOLA | BRI LIGA 1",LIVE [Indonesia Super League] Persib Bandung vs Adhyaksa FC
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "Referer": "https://player.787200.com/"}
-https://live.vivo155.com/live/sd-1-4614407.m3u8?txSecret=a338ef2149581fb2946d672c53f7d21a&txTime=6AE712A5|Referer=https://player.787200.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="rbtv-4474697" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persija Jakarta vs Persebaya Surabaya [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/10db29eabad13994d9729d8983f8d21a.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persija Jakarta vs Persebaya Surabaya [Server 1]
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/TWw2e3zf-ZgG83UngUgQ1VpcNvCULvAkarTwMW5pku8cZAfUIw.m3u8?s=0&proxy_seg=1
 
 
 
@@ -3234,15 +3233,6 @@ AGAMA | ini edit
 =======================================#
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=138
-#EXTINF:-1 tvg-id="LIFE.id" tvg-name="LIFE" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",🆕LIFE 
-https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
 
 
 
@@ -3260,12 +3250,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lit
 
 ===ADD
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MTATV.id" group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",MTATV
-https://cdnbal1.indihometv.com/atm/DASH/mtatv/mtatv-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/mtatv/manifest.mpd
-
+-
 #EXTINF:-1 tvg-id="HijrahTV" tvg-name="Hijrah TV" group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",HIJRAH TV
 https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 
@@ -3290,15 +3275,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
 #EXTINF:-1 tvg-id="TBN.id" tvg-name="TBN.id" tvg-logo="" group-title="AGAMA",TBN ASIA (KRISTEN)
 https://op-flashcon-digdayahd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=lite&chname=TBN
 
-(KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=154
-#EXTINF:-1 tvg-id="EWTN.id" tvg-name="EWTN.id" tvg-logo="" group-title="AGAMA",EWTN (KRISTEN)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/index.mpd
 
 
 =============
@@ -3325,12 +3301,7 @@ http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 
 ------
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MUI.TV.id" tvg-name="MUI TV.id" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",MUITV
-https://cdnbal1.indihometv.com/atm/DASH/muitv/muitv-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/muitv/manifest.mpd
-
+-
 
 =============
 
@@ -4411,45 +4382,163 @@ ___ INI ENGGA YA---sss
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++MULTI MATCH USA+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎0️⃣USA Network (19:30 Chelsea vs Manchester United)
-https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣USA Network (19:30 Chelsea vs Manchester United)
-http://pulsetvpro.cc/live/hazel123/hazel123/353.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎2️⃣USA Network (19:30 Chelsea vs Manchester United)
-http://kwick.cc:80/live/Michelle1/Michelle1/353.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎3️⃣USA Network (19:30 Chelsea vs Manchester United)
-http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎4️⃣USA Network (19:30 Chelsea vs Manchester United)
-http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/43964
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎5️⃣USA Network (19:30 Chelsea vs Manchester United)
-http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15905.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎6️⃣USA Network tv14s.(19:30 Chelsea vs Manchester United)
-http://tv14s.xyz:8080/BenA@443/443@6377/10252
+
+
+
 
 ==========
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎0️⃣USA Network (22:00 Brentford vs Nottingham Forest)
+8 NOVEMBER 2025
+===============
+====21:00 Sunderland vs Chelsea
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Sunderland vs Chelsea SKY SPORT 7 HD
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Sunderland vs Chelsea SKY SPORT CALCIO FHD
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/136481
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Sunderland vs Chelsea SKY SPORT CALCIO HD
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/136482
+
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎0️⃣USA Network ( Sunderland vs Chelsea)
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣USA Network (22:00 Brentford vs Nottingham Forest)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣USA Network ( Sunderland vs Chelsea)
 http://pulsetvpro.cc/live/hazel123/hazel123/353.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎2️⃣USA Network (22:00 Brentford vs Nottingham Forest)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎2️⃣USA Network ( Sunderland vs Chelsea)
 http://kwick.cc:80/live/Michelle1/Michelle1/353.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎3️⃣USA Network (22:00 Brentford vs Nottingham Forest)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎3️⃣USA Network ( Sunderland vs Chelsea)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎4️⃣USA Network (22:00 Brentford vs Nottingham Forest)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎4️⃣USA Network ( Sunderland vs Chelsea
 http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/43964
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎5️⃣USA Network (22:00 Brentford vs Nottingham Forest)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎5️⃣USA Network ( Sunderland vs Chelsea)
 http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15905.m3u8
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎6️⃣USA Network tv14s.(22:00 Brentford vs Nottingham Forest)
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎6️⃣USA Network tv14s.( Sunderland vs Chelsea)
 http://tv14s.xyz:8080/BenA@443/443@6377/10252
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Sunderland vs Chelsea BEIN SPORT 1 English (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Sunderland vs Chelsea SKY SPORT 8 (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
+
+======21:00 Ipswich Town vs AFC Bournemouth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Ipswich Town vs AFC Bournemouth SKY SPORT 9 HD
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Ipswich Town vs AFC Bournemouth BEIN SPORT 1 English (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Ipswich Town vs AFC Bournemouth SKY SPORT 8 (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
+
+=======21:00 Brighton & Hove Albion vs Brentford
+##EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Brighton & Hove Albion vs Brentford SKY SPORT 7 HD
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Brighton & Hove Albion vs Brentford BEIN SPORT 1 English (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Brighton & Hove Albion vs Brentford SKY SPORT 8 (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
+
+
+
+==21:00 Crystal Palace vs Liverpool
+#EXTINF:0 tvg-id="ext"  group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Crystal Palace vs Liverpool Astro Premier League 
+http://royaltv.world:25461/live/S1048/9886/144.ts
+
+#EXTINF:0 tvg-id="ext"  group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Crystal Palace vs Liverpool Astro Grandstand
+http://royaltv.world:25461/live/S1048/9886/146.ts
+
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",⭐Crystal Palace vs Liverpool⭐Star Sports Select 1 FHD (👑TATAPLAY)
+http://mag.diamondtv.one:80/unur/rtdVDBNG2z/416134
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",⭐Crystal Palace vs Liverpool⭐Star Sports Select 1 HD (👑SBW)
+https://sbsw.b-cdn.net/StarSportsHD1/720p1m/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Crystal Palace vs Liverpool⭐ StarSports Selet 1 (Airtel)
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
+#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Crystal Palace vs Liverpool⭐ STAR SPORTS SELECT 1 FHD✅
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Crystal Palace vs Liverpool⭐ BEIN SPORTS 1 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Crystal Palace vs Liverpool BEIN SPORT 1 English (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Crystal Palace vs Liverpool SKY SPORT 8 (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
+
+
+==23:30 Manchester United vs Aston Villa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Manchester United vs Aston Villa BEIN SPORT 1 English (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Manchester United vs Aston Villa SKY SPORT 8 (🛸)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
+
+
+#EXTINF:0 tvg-id="ext"  group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Manchester United vs Aston Villa Astro Premier League 
+http://royaltv.world:25461/live/S1048/9886/144.ts
+
+#EXTINF:0 tvg-id="ext"  group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",🎟️Manchester United vs Aston Villa Astro Grandstand
+http://royaltv.world:25461/live/S1048/9886/146.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Crystal Palace vs Liverpool⭐ BEIN SPORTS 1 (BRN)
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Crystal Palace vs Liverpool⭐BeIN Sports TR 3
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎0️⃣USA Network (Manchester United vs Aston Villa)
+https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎1️⃣USA Network (Manchester United vs Aston Villa)
+http://pulsetvpro.cc/live/hazel123/hazel123/353.m3u8
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎2️⃣USA Network (Manchester United vs Aston Villa)
+http://kwick.cc:80/live/Michelle1/Michelle1/353.m3u8
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎3️⃣USA Network (Manchester United vs Aston Villa)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/1101/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎4️⃣USA Network (Manchester United vs Aston Villa)
+http://etvhosts.site:55337/VZ0SyNWWsR/z9byB7Ys84/43964
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎5️⃣USA Network (Manchester United vs Aston Villa)
+http://kstv.us:8080/live/YuQAe1ZjWg/5230880594/15905.m3u8
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/AhC2BEg.jpeg",💎6️⃣USA Network tv14s.(Manchester United vs Aston Villa)
+http://tv14s.xyz:8080/BenA@443/443@6377/10252
+
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",⭐Manchester United vs Aston Villa⭐Star Sports Select 1 FHD (👑TATAPLAY)
+http://mag.diamondtv.one:80/unur/rtdVDBNG2z/416134
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="BOLA | LIGA INGGRIS",⭐Manchester United vs Aston Villa⭐Star Sports Select 1 HD (👑SBW)
+https://sbsw.b-cdn.net/StarSportsHD1/720p1m/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Manchester United vs Aston Villa⭐ StarSports Selet 1 (Airtel)
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
+#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Manchester United vs Aston Villa⭐ STAR SPORTS SELECT 1 FHD✅
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++MULTI MATCH NBCN+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
 
 
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++19:30 Chelsea vs Manchester United +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++19:30 Leeds United vs Tottenham Hotspur +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++MULTI MATCH +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
@@ -4850,35 +4939,68 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ MATCH ALL +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
+==7 NOVEMBER
+#EXTINF:0 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",20:00 Málaga vs Racing Santander BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-====3 NOV 2026 (BEIN 1 INDO)
-#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥3:00 Deportivo La Coruña vs Osasuna Bein Sports 1 (🏵 NS)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:0 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",22:15 Espanyol vs Deportivo La Coruña BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+==8 NOVEMBER
+
+#EXTINF:0 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",0:30 Osasuna vs Athletic Club BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:0 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",3:00 Valencia vs Real Madrid BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
+#EXTINF:0 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",20:00 Elche vs Real Betis BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
-==PREMIER SPORT 1 (3 NOV)
-#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",🔥3:00 Deportivo La Coruña vs Osasuna Premiere Sports 1 UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:0 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",22:15 Real Sociedad vs Rayo Vallecano BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
+===9 nov
 
+#EXTINF:0 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",0:30 Villarreal vs Getafe BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-====PRIMA SPORT 2
+#EXTINF:0 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",3:00 Atlético Madrid vs Barcelona BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-====================
-Selasa, 3 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",🔥3:00 Deportivo La Coruña vs Osasuna🔥 ⭐PRIMA SPORT 3
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 =================================================================================================================================================================================
@@ -4981,72 +5103,24 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 
 +++++++++++++++++++++ALL MATCH+++++++++++++++
 
-====================
-Tuesday, 3 November
-++++++++++++++++++++
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥0:30 Sassuolo vs Fiorentina🔥💥⭐BEIN SPORT 2 AU (🏆AIOS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥0:30 Sassuolo vs Fiorentina🔥💥⭐ Матч!Футбол 1
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",21:00 Torino vs Lecce Prima Sport 4(🏆AIOS) 
+#EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://polsey1.xn--zlqv28l.shop/puk4/usergendx3j2x4tqrnd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",21:00 Torino vs Lecce⭐ Матч!Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/130/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥2:45 Atalanta vs Parma🔥💥⭐BEIN SPORT 2 AU (🏆AIOS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5"tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",21:00 Cagliari vs Frosinone Prima Sport 5(🏆AIOS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
+https://polsey1.xn--zlqv28l.shop/puk5/usergen0grnd8l2y6gw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥2:45 Atalanta vs Parma🔥💥⭐ Матч!Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/130/index.m3u8
-
-====================
-Saturday, 7 November
-++++++++++++++++++++
-#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥2:45 Venezia vs Udinese🔥💥⭐BEIN SPORT 2 AU (🏆AIOS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥2:45 Venezia vs Udinese🔥💥⭐ Матч!Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/130/index.m3u8
-
-
-=============================================
-PRIMA SPORT 1
-
-
-====================
-Selasa, 3 November
-++++++++++++++++++++
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥0:30 Sassuolo vs Fiorentina🔥💥 Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥2:45 Atalanta vs Parma🔥💥 Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
-
-
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2"tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",💥20:00 Venezia vs Napoli Prima Sport 2(🏆AIOS)
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
-
-===================PRIMA SPORT 2
-====================
-
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",21:00 Cagliari vs Frosinone Astro Football
+http://royaltv.world:25461/live/S1048/9886/147.ts
 
 
 =================================================================================================================================================================================
