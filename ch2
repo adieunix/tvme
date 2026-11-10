@@ -1519,12 +1519,12 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-extra-headers=X-Playback-Session-Id: 609FB9F7-B143-45BC-B149-7167F60F2C85
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=73
-#EXTINF:-1 tvg-id="tvN.id" tvg-name="TVN DTTB" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg"
-group-title="DUNIA | KOREA",🆕TVN DTTB (🚀24926) 
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN DTTB" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg" group-title="DUNIA | KOREA",🆕TVN (🚀24926) 
 https://proxy-v.rctiplus.id/live/ios/tvn/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
