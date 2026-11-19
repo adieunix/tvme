@@ -2,8 +2,6 @@
 VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL-VOD LOKAL
 ===============================================================VOD LOKAL====================================================================
 
-#EXTINF:-1 group-logo="https://i.imgur.com/bcnnHvI.jpeg",VOD LOKAL
-
 #EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2026/11/Never-Surrender-Review-Netflix-Movie.jpg" group-title="VOD LOKAL", NEVER SURRENDER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDneverSurrender.m3u8
@@ -379,20 +377,5 @@ https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=112281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDyowis-Ben2.m3u8
 
-
-
-
-RGTSS
-
-as
-
-
-
-
-----
-
-
-
-sdd
 
 #EXTM3U billed-msg="😎 DATATABU | TVME 😎"
