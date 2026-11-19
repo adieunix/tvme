@@ -1,50 +1,50 @@
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="- INDONESIA  / VIP -", GTV - FHD
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="- INDONESIA  / VIP -", GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4jvfyFJDSrfrQKQT26Adlwg
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34331
 http://ktpremium.world:2095/oc100138/3826778900/73619
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="- INDONESIA  / VIP -", MNCTV - FHD
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="- INDONESIA  / VIP -", MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnjBDPZBjz1mTcbg--j3mZt4
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34341
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34326
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="- INDONESIA  / VIP -", RCTI - FHD
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="- INDONESIA  / VIP -", RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnpiIYMGzjlT-EfHZTJD7G_g
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34421
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/trnas7.png" group-title="- INDONESIA  / VIP -", TRANS 7 - FHD
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/trnas7.png" group-title="- INDONESIA  / VIP -", TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnkVXeCd6S_Wt28LRiOkqhJE
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/transtv.png" group-title="- INDONESIA  / VIP -",TransTV - FHD
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/transtv.png" group-title="- INDONESIA  / VIP -",TransTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnpACZ3RxgaRQeEEvN5gKpCw
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34324
 
-#EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNewsTV - FHD
+#EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNewsTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34335
 
-#EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV - FHD
+#EXTINF:-1 group-title="- INDONESIA  / VIP -" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnniYFvbljSI_mNu3tYsKRW8
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34328
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="- INDONESIA  / VIP -",SCTV - FHD
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="- INDONESIA  / VIP -",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnk_T8aes9Or8cm3j6ZVsAxk
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34323
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="- INDONESIA  / VIP -", INDOSIAR - FHD
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="- INDONESIA  / VIP -", INDOSIAR
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4tvU9DgkJZwbob7tWGGp3Yw
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
-#EXTINF:-1 tvg-id="Moji" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="- INDONESIA  / VIP -",MOJI TV (Dens)
+#EXTINF:-1 tvg-id="Moji" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="- INDONESIA  / VIP -",MOJI TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -94,7 +94,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
 
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.pinimg.com/736x/b9/0a/c8/b90ac8ae062a39d4a92e978454651cb6.jpg" group-title="- INDONESIA  / VIP -",RTV (Dens)
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.pinimg.com/736x/b9/0a/c8/b90ac8ae062a39d4a92e978454651cb6.jpg" group-title="- INDONESIA  / VIP -",RTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
