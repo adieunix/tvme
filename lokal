@@ -90,11 +90,11 @@ http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTINF: -1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/cnnindo.png" group-title="- INDONESIA  / VIP -",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://thedesk.net/wp-content/uploads/2025/12/BLANK-CNBC-New-Logo-Versant-2025-WEBP-TD.webp" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Indonesia Channels",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/canlog/refs/heads/main/cnbcindo.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Indonesia Channels",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
 
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="- INDONESIA  / VIP -",RTV (Dens)
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.pinimg.com/736x/b9/0a/c8/b90ac8ae062a39d4a92e978454651cb6.jpg" group-title="- INDONESIA  / VIP -",RTV (Dens)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
